@@ -1,0 +1,13 @@
+{
+  "I": 15,
+  "J": 50,
+  "H": 75,
+  "queries": 40,
+  "oos_count": 1000,
+  "cv_low": 0.4,
+  "cv_high": 0.6,
+  "selection_fraction": 0.8,
+  "distribution": "LOGNORMAL",
+  "generator_version": "linear-positive-v1",
+  "original_case_id": "lognormal_cv040060/rep_004"
+}

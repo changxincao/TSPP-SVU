@@ -1,0 +1,13 @@
+{
+  "I": 15,
+  "J": 50,
+  "H": 75,
+  "queries": 40,
+  "oos_count": 1000,
+  "cv_low": 0.3,
+  "cv_high": 0.5,
+  "selection_fraction": 0.8,
+  "distribution": "NORMAL",
+  "generator_version": "linear-positive-v1",
+  "original_case_id": "main/rep_003"
+}

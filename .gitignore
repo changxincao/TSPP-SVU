@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.class
+regenerated/
+generated/
+build/
+*.dll
+*.jar
+*.lic
+*.log
+*.pem
+*.key
