@@ -1,0 +1,13 @@
+{
+  "I": 30,
+  "J": 120,
+  "H": 150,
+  "queries": 3,
+  "oos_count": 0,
+  "cv_low": 0.3,
+  "cv_high": 0.5,
+  "selection_fraction": 0.8,
+  "distribution": "NORMAL",
+  "generator_version": "linear-positive-v1",
+  "experiment_id": "performance/I30_J120_S150_rep_001"
+}
