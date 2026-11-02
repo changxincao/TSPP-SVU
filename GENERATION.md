@@ -18,7 +18,10 @@ The saved `demand_parameters.csv` records this baseline.
 
 ## Residual distribution
 
-A fixed U(0,1) lane quantile is mapped to the configured CV-parameter interval. Each lane also has a fixed common loading `rho_j ~ U(0.3,0.5)`. Each period uses one shared G~N(0,1) and independent lane variables Z_j~N(0,1):
+For each lane `j`, draw `u_j ~ U(0,1)` once and set
+`CV_j = CV_low + (CV_high - CV_low)*u_j`. Each lane also has a fixed
+common-factor loading `rho_j ~ U(0.3,0.5)`. In each period, draw one common
+shock `G ~ N(0,1)` and independent lane-specific shocks `Z_j ~ N(0,1)`:
 
 `z_j = rho_j*G + sqrt(1-rho_j^2)*Z_j`.
 
