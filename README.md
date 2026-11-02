@@ -58,4 +58,4 @@ The script reads `seed.txt` and `config.json` and writes the CSV, JSON and gzip 
 
 ## Olist data and attribution
 
-The Olist directory contains the processed weekly demand table and three synthetic procurement datasets. The source is the [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce). The processed demand table remains subject to its [CC BY-NC-SA 4.0 license](https://creativecommons.org/licenses/by-nc-sa/4.0/). See [olist/README.md](olist/README.md) for data files and units.
+The Olist directory contains the processed weekly demand table and three synthetic procurement datasets. The source is the [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce). The processed demand table remains subject to its [CC BY-NC-SA 4.0 license](https://creativecommons.org/licenses/by-nc-sa/4.0/). See [olist/README.md](olist/README.md) for data files.

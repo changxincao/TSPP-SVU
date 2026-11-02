@@ -1,6 +1,6 @@
 # Data dictionary
 
-All files are UTF-8. Indices in procurement tables and decision-context directory names are zero-based. Decimal fields retain the generator's double-precision output.
+All files are UTF-8. Indices in procurement tables and decision-context directory names are zero-based.
 
 ## Per synthetic instance
 
